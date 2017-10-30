@@ -1,0 +1,25 @@
+body{
+    background-color: #E1E1E1; color: #007689;
+    font-family: "Century Schoolbook";
+}
+
+center {
+    text-align: center;
+}
+
+div#crd.card-content{
+    margin-left: 40%;
+    margin-top: 5%;
+    text-align: center;
+}
+input.waves-button-input{
+    margin-top: 10%;
+}
+iframe#paymentform
+{
+    margin-top: 3%;
+    height: 900px;
+    width: 700px;
+    border: 0;
+    margin-left: 20%;
+}
